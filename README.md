@@ -1,1 +1,1 @@
-# bolgImages
+# blogImages
